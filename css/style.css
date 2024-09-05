@@ -233,7 +233,7 @@ a, a:hover {
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a:hover, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a:hover {
-  color: #fff;
+  color: #367D93;
 }
 
 .unslate_co--site-nav .site-nav-ul > li > a:hover:before, .unslate_co--site-nav .site-nav-ul-none-onepage > li > a:hover:before {
@@ -1044,20 +1044,20 @@ a, a:hover {
 
 .filter-wrap .filter {
   font-size: 14px;
-  color: #fff;
+  color: #262626;
 }
 
 .filter-wrap .filter a {
   margin-left: 10px;
-  color: rgba(255, 255, 255, 0.5);
+  color: #262626;
 }
 
 .filter-wrap .filter a:hover {
-  color: #fff;
+  color: #367D93;
 }
 
 .filter-wrap .filter a.active {
-  color: #fff;
+  color: #367D93;
 }
 
 @media (max-width: 991.98px) {
